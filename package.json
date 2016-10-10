@@ -2,6 +2,9 @@
   "name": "react-redux-boilerplate",
   "version": "1.0.0",
   "description": "A React with Redux boilerplate repository to quickly start new projects",
+  "scripts":{
+    "start":"babel-node tools/srcServer.js"
+  },
   "author": "Trevor McGrath",
   "license": "MIT",
   "dependencies": {
