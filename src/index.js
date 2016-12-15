@@ -1,4 +1,5 @@
 /* eslint-disable no-console */
+
 console.log("Hello");
 console.log(document.URL);
 console.log(document.referrer);
